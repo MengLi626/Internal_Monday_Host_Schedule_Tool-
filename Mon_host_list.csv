@@ -1,8 +1,7 @@
-Week,First_Mon_Date,Second_Mon_Date,Host_list,Final Host
-Week1-Week2,2023-07-10,2023-07-17,"['Alex McCutcheon', 'Andrew Russell', 'Bowen Shi', 'Debbie Gee', 'Patryk Hetnal', 'Stuart Conway']",Debbie Gee
-Week3-Week4,2023-07-24,2023-07-31,"['Alex McCutcheon', 'Andrew Russell', 'Bowen Shi', 'Callum Cheshire', 'Karen Jewell', 'Patryk Hetnal', 'Sam Ralton', 'Stuart Conway']",Stuart Conway
-Week5-Week6,2023-08-07,2023-08-14,"['Abdul Shah', 'Alex McCutcheon', 'Andrew Russell', 'Bowen Shi', 'Callum Cheshire', 'Hannah Butcher', 'Patryk Hetnal', 'Sam Ralton']",Hannah Butcher
-Week7-Week8,2023-08-21,2023-08-28,"['Alex McCutcheon', 'Andrew Russell', 'Bowen Shi', 'Callum Cheshire', 'Karen Jewell', 'Sam Ralton']",Andrew Russell
-Week9-Week10,2023-09-04,2023-09-11,"['Abdul Shah', 'Alex McCutcheon', 'Bowen Shi', 'Callum Cheshire', 'Karen Jewell', 'Patryk Hetnal', 'Sam Ralton', 'Thelma Al Assad']",Abdul Shah
-Week11-Week12,2023-09-18,2023-09-25,"['Alex McCutcheon', 'Bowen Shi', 'Callum Cheshire', 'Karen Jewell', 'Patryk Hetnal', 'Sam Ralton', 'Thelma Al Assad']",Patryk Hetnal
-Week13-Week14,2023-10-02,2023-10-09,"['Abdul Shah', 'Alex McCutcheon', 'Andrew Russell', 'Bowen Shi', 'Callum Cheshire', 'Debbie Gee', 'Hannah Butcher', 'Karen Jewell', 'Patryk Hetnal', 'Sam Ralton', 'Stuart Conway', 'Thelma Al Assad']",
+Week,First_Mon_Date,Second_Mon_Date,Final Host
+Week13-Week14,2023-10-02,2023-10-09,Sam Ralton
+Week15-Week16,2023-10-16,2023-10-23,Thelma Al Assad
+Week17-Week18,2023-10-30,2023-11-06,Karen Jewell
+Week19-Week20,2023-11-13,2023-11-20,Callum Cheshire
+Week21-Week22,2023-11-27,2023-12-04,Bowen Shi
+Week23-Week24,2023-12-11,2023-12-18,Alex McCutcheon
